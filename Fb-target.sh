@@ -85,8 +85,8 @@ echo "Loading....."
 sleep 4
 echo "Berhasil mencury Data korban" | lolcat
 echo "=============================="
-echo $me"Nama Facebook : Farhan"
-echo $cy"Password : farhanmerdeka"
+echo $me"Email/HP : Not found!!
+echo $cy"Password : apaajah2838"
 echo "=============================="
 echo $me"NOTE : JIKA ADA MASALAH HUBUNGI AUTHOR"
 echo $i"Terimakasih telah menggunakan tools ini"
@@ -113,9 +113,9 @@ clear
 echo
 echo
 echo $me" █░░ ▄▀▄ ▄▀ █░▄▀ ▄▀▀░ █▄░▄█ ▄▀▄ ▀ █░░"
-echo $i" █▀▄ █▀█ █░ █▀▄░ █░▀▌ █░█░█ █▀█ █ █░▄"
-echo $cy" ▀░▀ ▀░▀ ░▀ ▀░▀▀ ▀▀▀░ ▀░░░▀ ▀░▀ ▀ ▀▀▀"
-echo $me "========================="
+echo $me" █▀▄ █▀█ █░ █▀▄░ █░▀▌ █░█░█ █▀█ █ █░▄"
+echo $pu" ▀░▀ ▀░▀ ░▀ ▀░▀▀ ▀▀▀░ ▀░░░▀ ▀░▀ ▀ ▀▀▀"
+echo $pu "========================="
 echo $i  "AUTHOR : ACIL D4Y 127"
 echo $cy "WA : +62852-8064-5068"
 echo $i  "Youtube : MR 4444"
@@ -129,7 +129,7 @@ sleep 4
 sleep 2
 echo "Akun berhasil di retas"
 echo "========================"
-echo $i "Password : j1j88b4k0"
+echo $i "Password : orangganteng992"
 echo "========================"
 echo $me "NOTE JIKA ADA MASALAH HUBUNGI AUTHOR"
 echo "Terimakasih telah menggunakan tools kami:))" | lolcat
@@ -174,7 +174,7 @@ sleep 2
 echo "Akun berhasil di retas"
 sleep 4
 echo "========================"
-echo $me "Password : supriyatna02827"
+echo $me "Password : carisendiria3637"
 echo "========================"
 echo $me "NOTE JIKA ADA MASALAH HUBUNGI AUTHOR"
 echo "Terimakasih gan RESIKO DI TANGGUNG SENDIRI" | lolcat
