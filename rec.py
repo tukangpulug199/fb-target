@@ -1,4 +1,5 @@
 # uncompyle6 version 3.3.5
+# Codded Acil Sean
 # Python bytecode 2.7
 # Decompiled from: Python 2.7.16 (default, Aug  6 2019, 01:11:15) 
 # [GCC 4.2.1 Compatible Android (5220042 based on r346389c) Clang 8.0.7 (https://
@@ -414,7 +415,7 @@ def id_teman():
     save.close()
     print tutup + '\n[' + lime + '\033[33;1m+' + tutup + '] Successfully get id friend'
     done = raw_input(tutup + '\033[37;1m[' + lime + '\033[33;1m+' + tutup + '\033[37;1m] Save file with name : ' + lime)
-    print tutup + '\033[37;1m[' + lime + '\033[32;1m+' + tutup + '\033[37;1m] Create file ...'
+    print '\033[37;1m[\033[32;1m+\033[37;1m] Create file...'
     time.sleep(2)
     os.rename('dump/id_teman.txt', 'dump/' + done)
     print tutup + '\033[37;1m[' + lime + '\033[32;1m+' + tutup + '\033[37;1m] File saved : ' + lime + 'dump/' + done + tutup
@@ -564,7 +565,7 @@ def em_teman():
             save.close()
             print tutup + '\n\033[37;1m[' + lime + '\033[32;1m+' + tutup + '\033[37;1m] Successfully get email friend'
             done = raw_input(tutup + '\033[37;1m[' + lime + '\033[32;1m+' + tutup + '\033[37;1m] Save file with name : '
-            print tutup + '\033[37;1m[' + lime + '\033[32;1m+' + tutup + '\033[37;1m] Create file ...'
+            print '\033[37;1m[\033[32;1m+\033[37;1m] Create file...'
             time.sleep(2)
             os.rename('dump/em_teman.txt', 'dump/' + done)
             print tutup + '\033[37;1m[' + lime + '\033[33;1m+' + tutup + '\033[37;1m] File saved : ' + lime + 'dump/' + done + tutup
